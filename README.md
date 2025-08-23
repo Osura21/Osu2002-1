@@ -1,67 +1,127 @@
-<p align="center" ><img  src = "https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" width = 200px></p>
-<h1 align="center">Hi 👋, I'm Osura Samoda</h1>
-<h3 align="center">Passionate IT Student | Exploring the Boundless World of Technology</h3>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=osu2002&label=Profile%20views&color=0e75b6&style=flat" alt="osu2002" /> </p>
+<!--
+  GitHub Profile README for github.com/osu2002
+  Clean, dark-themed profile with polished visuals and working widgets.
+-->
 
-<table align="center">
-<tr border="none">
-<td width="50%" align="left">
-  
-- 🌱 I’m currently learning **Laravel**
-
-- 🧑‍🎓 I’m an Undergraduate at **SLIIT**
-
-- 💬 Ask me about **Web development**
-
-- 📫 How to reach me **thotawattaosura@gmail.com**
-  
-- ⚡ Fun fact **Call me as Osu**
-
-</td>
-<td width="50%" align="center">
-
-  <img align="center" alt="Coding" width="450" src="https://raw.githubusercontent.com/Giphy/GiphyAPI/master/api_giphy_header.gif">
-
-  
-  </td>
-  
-</tr>
-</table>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osu2002" alt="osu2002" /></a> </p>
-
-<p align="center"> <a href="https://twitter.com/osurasamoda" target="blank"><img src="https://img.shields.io/twitter/follow/osurasamoda?logo=twitter&style=for-the-badge" alt="osurasamoda" /></a> </p>
-
-<h3 align="center">My Statistics:</h3>
+<!-- ====== HEADER BANNER ====== -->
 <p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=osu2002&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=osu2002&theme=dark&hide_border=false" /> 
-</td>
-<td width="50%" align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:00C1D4&height=180&section=header&text=Osura%20Samoda&fontSize=42&fontAlignY=35&desc=IT%20Student%20•%20Web%20Developer%20•%20Always%20Learning&descAlignY=55&fontColor=FFFFFF" alt="Osura Samoda header" />
+</p>
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=osu2002&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-
----
-
-<h3 align="center">Connect with me:</h3>
+<!-- ====== TYPING INTRO ====== -->
 <p align="center">
-<a href="https://linkedin.com/in/osura-samoda-51566927a" target="blank"><img align="center" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="osura-samoda-51566927a" height="50" width="50" /></a>
-<a href="https://stackoverflow.com/users/23063462/osura-samoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="osura-samoda" height="50" width="50" /></a>
-<a href="https://www.facebook.com/profile.php?id=100082561964715" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="osura samoda" height="50" width="50" /></a>
-<a href="https://instagram.com/osura_samoda" target="blank"><img align="center" src="https://www.edigitalagency.com.au/wp-content/uploads/new-Instagram-icon-png-full-colour.png" alt="osura_samoda" height="50" width="50" /></a>
-<a href="https://twitter.com/osurasamoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="osura-samoda" height="50" width="50" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&color=1E90FF&center=true&vCenter=true&width=700&lines=Hey+👋,+I'm+Osura+Samoda+(Osu)!;Passionate+IT+Student;Web+Developer+%7C+Tech+Explorer;Always+Learning+New+Things+🚀" alt="typing intro" />
+</p>
+
+<!-- ====== QUICK BADGES ====== -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=osu2002&label=Profile+Views&color=1E90FF&style=flat" alt="profile views"/>
+  <a href="https://github.com/osu2002?tab=followers"><img src="https://img.shields.io/github/followers/osu2002?logo=github&style=flat&color=1E90FF" alt="followers"/></a>
+  <a href="mailto:thotawattaosura@gmail.com"><img src="https://img.shields.io/badge/Email-thotawattaosura%40gmail.com-informational?style=flat&logo=gmail&logoColor=white&color=EA4335" alt="email"/></a>
+  <a href="https://github.com/osu2002"><img src="https://img.shields.io/badge/Focus-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=FF2D20" alt="focus"/></a>
 </p>
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="50" height="50"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> </a>  </p>
+<!-- ====== ABOUT ====== -->
+<h1 align="center">Hi 👋, I'm Osura Samoda</h1>
+<h3 align="center">💻 Passionate IT Student | Exploring the Boundless World of Technology 🌍</h3>
+
+<table align="center">
+<tr>
+<td width="55%">
+
+- 🌱 Currently learning **Laravel**  
+- 🧑‍🎓 Undergraduate at **SLIIT**  
+- 💬 Ask about **Web Development & Backend**  
+- 📫 Reach at **thotawattaosura@gmail.com**  
+- ⚡ Fun fact: **Call me “Osu” 😃**
+
+</td>
+<td width="45%" align="center">
+  <img alt="Coding animation" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+</td>
+</tr>
+</table>
+
+---
+
+<!-- ====== SOCIALS ====== -->
+<h3 align="center">🌐 Connect with me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/osura-samoda-51566927a"><img src="https://skillicons.dev/icons?i=linkedin" height="42"/></a>
+  <a href="https://stackoverflow.com/users/23063462/osura-samoda"><img src="https://skillicons.dev/icons?i=stackoverflow" height="42"/></a>
+  <a href="https://www.facebook.com/profile.php?id=100082561964715"><img src="https://skillicons.dev/icons?i=facebook" height="42"/></a>
+  <a href="https://instagram.com/osura_samoda"><img src="https://skillicons.dev/icons?i=instagram" height="42"/></a>
+  <a href="https://twitter.com/osurasamoda"><img src="https://skillicons.dev/icons?i=twitter" height="42"/></a>
+</p>
+
+---
+
+<!-- ====== TECH STACK ====== -->
+<h3 align="center">🛠️ Languages & Tools</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,tailwind,bootstrap,java,c,cpp,mysql,mongodb,git,github,vscode,postman,linux" />
+</p>
+
+---
+
+<!-- ====== FEATURED PROJECTS (Live pins) ====== -->
+<h3 align="center">🚀 Featured Projects</h3>
+
+<p align="center">
+  <!-- Picked directly from your public repos -->
+  <a href="https://github.com/osu2002/Final-Project-Road_Monitoring"><img src="https://github-readme-stats.vercel.app/api/pin/?username=osu2002&repo=Final-Project-Road_Monitoring&theme=dark" /></a>
+  <a href="https://github.com/osu2002/Payment_MERN_APP"><img src="https://github-readme-stats.vercel.app/api/pin/?username=osu2002&repo=Payment_MERN_APP&theme=dark" /></a>
+</p>
+<p align="center">
+  <a href="https://github.com/osu2002/Laravel_CRM_Project"><img src="https://github-readme-stats.vercel.app/api/pin/?username=osu2002&repo=Laravel_CRM_Project&theme=dark" /></a>
+  <a href="https://github.com/osu2002/Chef-Food-Kotlin-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=osu2002&repo=Chef-Food-Kotlin-app&theme=dark" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/osu2002?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20All%20Projects-%E2%86%92-1E90FF?style=for-the-badge" alt="Explore Projects"/>
+  </a>
+</p>
+
+---
+
+<!-- ====== STATS ====== -->
+<h3 align="center">📊 GitHub Statistics</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=osu2002&theme=dark&show_icons=true&count_private=true&hide_title=false" height="170" alt="stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osu2002&theme=dark&hide_border=false" height="170" alt="streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osu2002&layout=compact&theme=dark&langs_count=10" height="170" alt="top languages"/>
+</p>
+
+---
+
+<!-- ====== TROPHIES & ACTIVITY ====== -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=osu2002&theme=darkhub&no-frame=true&row=1&column=6" alt="trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=osu2002&theme=react-dark&bg_color=20232a&hide_border=true&area=true" width="100%" alt="activity graph"/>
+</p>
+
+---
+
+<!-- ====== CONTRIBUTION SNAKE (needs the workflow below) ====== -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/osu2002/osu2002/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+</p>
+
+---
+
+<!-- ====== FOOTER ====== -->
+<h3 align="center">✨ Thank you for visiting! ✨</h3>
+<p align="center">⭐️ From <a href="https://github.com/osu2002">osu2002</a></p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C1D4,100:1E90FF&height=120&section=footer" alt="footer wave"/>
+</p>
